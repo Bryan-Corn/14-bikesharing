@@ -7,7 +7,7 @@
 
 
 ## Overview of the statistical analysis:
-The purpose of this analysis is to investigate the feasablility of implementing a bike-sharing service in Iowa, use the data visualizations to support a business proposal, and learn about Tableau.
+The purpose of this analysis is to investigate the feasiblility of implementing a bike-sharing service in Iowa, use data visualizations to support a business proposal, and learn about Tableau.
 
         
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare1.png)
@@ -28,7 +28,7 @@ The purpose of this analysis is to investigate the feasablility of implementing 
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare4.png)
  
- This line plot shows the total number of trips per duration. The duration divided by hours and then minutes within the hours. There are almost no trips that lasted over an hour and most were less than 20 minutes.
+ This line plot shows the total number of trips per duration. The duration is divided by hours and then minutes within the hours. There are almost no trips that lasted over an hour and most were less than 20 minutes.
  
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare5.png)
@@ -38,7 +38,7 @@ The purpose of this analysis is to investigate the feasablility of implementing 
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare6.png)
  
- This heatmap shows the hours and day with the most bike checkouts.
+ This heatmap shows the hours by day with the most bike checkouts.
  
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare7.png)
@@ -64,5 +64,5 @@ The purpose of this analysis is to investigate the feasablility of implementing 
 ## Summary:
 Most trips are short, taken by male subscribers, and are likely to be a the start or end of the work day. The start and end locations are heavily clustered around major downtown areas. Bike use is very low in the early morning hours to allow for repair and maintenance. 
 
-More investigation and analysis should be done with respect to revenue, expenses, and actual distance traveled per trip.
+More investigation and analysis should be done with respect to revenue, expenses, and actual distance traveled per trip and/or per bike.
         
