@@ -22,9 +22,9 @@ The purpose of this analysis is to investigate the feasablility of implementing 
  
  The tripduration data is now converted to datetime, showing each trip in hours, minutes, and seconds (with a date of 1970-01-01.)
  
+ 
  ## Results:
-        There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-        There is a description of the results for each visualization (7 pt)
+   
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare4.png)
  
@@ -64,5 +64,5 @@ The purpose of this analysis is to investigate the feasablility of implementing 
 ## Summary:
 Most trips are short, taken by male subscribers, and are likely to be a the start or end of the work day. The start and end locations are heavily clustered around major downtown areas. Bike use is very low in the early morning hours to allow for repair and maintenance. 
 
-More investigation and analysis should be dome with respect to revenue, expenses, and actual distance traveled per trip.
+More investigation and analysis should be done with respect to revenue, expenses, and actual distance traveled per trip.
         
