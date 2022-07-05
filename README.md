@@ -36,6 +36,15 @@ The purpose of this analysis is to investigate the feasablility of implementing 
  
  
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare7.png)
+ 
+ 
+ ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare8.png)
+ 
+ 
+ ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare9.png)
+ 
+ 
+ ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare10.png)
 
 ## Summary:
         There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
