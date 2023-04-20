@@ -1,13 +1,13 @@
 ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare01.png)
-# bikesharing 
-[link to story](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge_16569975494410/Story1)     
+# Bikesharing 
+[link to story at Tableau Public](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge_16569975494410/Story1)     
      [link to dashboard 1](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard/Dashboard1?publish=yes)     
           [link to dashboard 2](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard2/Dashboard2?publish=yes)     
                [link to dashboard 3](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard3/Dashboard3?publish=yes)
 
 
 ## Overview of the statistical analysis:
-The purpose of this analysis is to investigate the feasiblility of implementing a bike-sharing service in Iowa, use data visualizations to support a business proposal, and learn about Tableau.
+The purpose of this analysis is to investigate the feasiblility of implementing a bike-sharing service in Iowa, use data visualizations to support a business proposal, and to learn about Tableau.
 
         
  ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare1.png)
