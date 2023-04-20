@@ -1,6 +1,6 @@
 ![image](https://github.com/Bryan-Corn/14-bikesharing/blob/main/Images/bikeshare01.png)
 # Bikesharing 
-[Tableau Public link to data story at](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge_16569975494410/Story1)     
+[Tableau Public link to data story](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge_16569975494410/Story1)     
      [Tableau Public link to dashboard 1](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard/Dashboard1?publish=yes)     
           [Tableau Public link to dashboard 2](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard2/Dashboard2?publish=yes)     
                [Tableau Public link to dashboard 3](https://public.tableau.com/app/profile/bryan.corn4415/viz/CitibikeChallenge-Dashboard3/Dashboard3?publish=yes)
